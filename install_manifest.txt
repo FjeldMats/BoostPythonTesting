@@ -1,0 +1,2 @@
+/usr/local/lib/hello.so
+/usr/local/lib/classes.so
