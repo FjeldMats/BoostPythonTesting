@@ -1,0 +1,5 @@
+[tool.pyright]
+include = ["01HelloWorld"]
+
+executionEnvironments = [
+  { root= "01HelloWorld", extraPaths = [ "libs" ] },
